@@ -3,6 +3,10 @@ html, body{
     
     background-color: lightgray;
 }
+img{
+    width: 500px;
+    height: 390px;
+}
 header{
     margin:0;
     padding-top: 0.5px;
